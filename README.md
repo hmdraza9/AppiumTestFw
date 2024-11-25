@@ -1,5 +1,3 @@
-Here's the formatted content for your README file, with lines starting with `#` made bold:
-
 **Appium Setup**
 
 Start Appium server:  
@@ -7,9 +5,7 @@ Start Appium server:
 
 **Start Appium inspector and start the session with caps matching with the device.**
 
-**Open IntelliJ where the test script is written and execute**
-
-`/Users/hmdraza9/Documents/Work/JavaScriptLearn/.gitignore`
+**Open IntelliJ where the test script is written and execute, project is in TestNG framework**
 
 **Downloads:**
 

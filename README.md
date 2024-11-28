@@ -1,14 +1,3 @@
-**Appium Setup**
-
-Start Appium server:  
-`appium --allow-cors` (Appium)
-
-**Start Appium inspector and start the session with caps matching with the device.**  
-(Appium Inspector)
-
-**Open IntelliJ where the test script is written and execute, project is in TestNG framework**  
-(IntelliJ IDEA, TestNG)
-
 **Downloads:**
 
 - `android-studio-2024.2.1.11-mac_arm.dmg` (Android Studio)  
@@ -21,3 +10,14 @@ Start Appium server:
 ***Refer this URL I got for assignment:***  
 *https://github.com/saucelabs/sample-app-mobile/releases*  
 (Sauce Labs)
+
+**Appium Setup**
+
+Start Appium server:  
+`appium --allow-cors` (Appium)
+
+**Start Appium inspector and start the session with caps matching with the device.**  
+(Appium Inspector)
+
+**Open IntelliJ where the test script is written and execute, project is in TestNG framework**  
+(IntelliJ IDEA, TestNG)
